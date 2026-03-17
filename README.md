@@ -17,6 +17,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryxn-builds&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
