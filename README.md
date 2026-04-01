@@ -1,252 +1,222 @@
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-<!-- ██                    ARYAN YADAV — GITHUB PROFILE README                   ██ -->
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:FF6B35,60:00D4FF,100:0a0a0f&height=220&section=header&text=ARYAN%20YADAV&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=GenAI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=20&descColor=00D4FF&animation=twinkling" width="100%"/>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:FF6B00,100:FF2D00&height=200&section=header&text=ARYAN%20YADAV&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Founder%20@%20Blazion.io&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
-<a href="https://github.com/aryxn-builds">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=%F0%9F%A7%A0+AI+%2F+ML+Engineer+%26+Builder;%F0%9F%94%A5+Founder+%40+Blazion.io;%F0%9F%8E%AF+GenAI+%7C+Computer+Vision+%7C+Deep+Learning;%F0%9F%9A%80+Building+the+Future+with+Neural+Networks;%E2%9A%A1+3rd+Year+CSE+%40+IEC+College+of+Engineering" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- ═══════════════════ BADGES ROW ═══════════════════ -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20ML%20%7C%20CV-FF6B35?style=for-the-badge&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Founder-Blazion.io-00D4FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A5-00FF88?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=aryxn-builds&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS"/>
-</p>
+<!-- DYNAMIC TYPING HEADLINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+products+that+shouldn't+exist+yet.;3rd-year+CSE+%40+IEC+%7C+Founder+%40+Blazion.io;ML+Engineer+%2B+Full-Stack+AI+Builder;FAANG-bound.+But+building+my+own+empire+first.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/main/assets/neural-banner.gif" alt="Neural Network Animation" onerror="this.style.display='none'"/>
-
-## `> whoami`
+## ⚡ WHO I AM
 
 ```python
-class AryanYadav:
-    name        = "Aryan Yadav"
-    role        = "ML / CV Engineer & AI Builder"
-    company     = "Blazion.io  ← Founder"
-    university  = "IEC College of Engineering & Technology"
-    degree      = "B.Tech CSE — 6th Semester"
-    location    = "Greater Noida, India  🇮🇳"
-
-    focus = [
-        "Generative AI  (LLMs, RAG, Agentic Systems)",
-        "Computer Vision  (YOLOv8, MediaPipe, OpenCV)",
-        "Deep Learning  (PyTorch, Transformers)",
-        "Full-Stack AI  (Next.js + Claude API)",
-    ]
-
-    currently_building = [
-        "3D Futuristic AI Portfolio  (React Three Fiber + GSAP)",
-        "AI Chat Assistant powered by Claude API",
-        "RPG Skill-Tree Certification System",
-    ]
-
-    target = "FAANG / Top MNC  →  ML Engineer  🎯"
-
-    def __repr__(self):
-        return "Turning ideas into intelligent systems. 🔥"
+aryan = {
+    "role"    : "ML/CV Engineer + Startup Founder",
+    "college" : "IEC College of Engineering (CSE, Yr 3)",
+    "company" : "Blazion.io  —  AI-native SaaS",
+    "stack"   : ["PyTorch", "OpenCV", "LangChain",
+                 "Next.js", "Three.js", "Claude API"],
+    "mission" : "Ship AI products that actually matter.",
+    "status"  : "🔥 Open to ML/DS internships",
+    "debug_time": "2 AM (always works at 2:59 AM)",
+}
 ```
 
-<br clear="right"/>
+> *"I don't wait for AI to change the world.*
+>  *I build the things that do the changing."*
 
----
+</td>
+<td width="45%" valign="top">
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
-## `> tech_stack --all`
-
-<div align="center">
-
-### 🧠  Core AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv&theme=dark&perline=8"/>
-</p>
-
-### ⚡  GenAI & LLM Stack
-<p>
-  <img src="https://img.shields.io/badge/Claude%20API-Anthropic-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-00D4FF?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG-Vector%20DBs-8B5CF6?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### 🎨  Frontend & 3D
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,tailwind,vercel&theme=dark&perline=8"/>
-</p>
-
-### 🛠️  Tools & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark&perline=8"/>
-</p>
-
-</div>
-
----
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-## `> git stats --god-mode`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aryxn-builds&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=00D4FF&text_color=c9d1d9&border_color=FF6B3530&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxn-builds&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_color=FF6B3530&langs_count=8&hide=html,css"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aryxn-builds&theme=dark&background=0d1117&border=FF6B3530&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&sideNums=00D4FF&currStreakLabel=FF6B35&sideLabels=00D4FF&dates=888888&stroke=0d1117" width="500"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
-
-## `> contribution --graph`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryxn-builds&bg_color=0d1117&color=00D4FF&line=FF6B35&point=ffffff&area=true&area_color=FF6B3515&hide_border=true&custom_title=Aryan's%20Contribution%20Graph" width="95%"/>
-</div>
-
----
-
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
-
-## `> contribution --snake`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</picture>
-</div>
-
-> 📌 **To activate the snake:** Go to `Actions` tab → Enable workflows → The snake auto-generates from your contribution grid every 24h.
-
----
-
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-## `> trophies --showcase`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryxn-builds&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Reviews" width="95%"/>
-</div>
-
----
-
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
-
-## `> projects --featured`
-
-<div align="center">
-
-| 🚀 Project | 🧠 Stack | ⚡ Description |
-|:---|:---|:---|
-| **3D AI Portfolio** | `Three.js` `React Three Fiber` `GSAP` `Claude API` | Dark futuristic 3D portfolio with AI Chat, Face Detection & GitHub Feed |
-| **Jarvis AI Assistant** | `LangChain` `RAG` `TTS/STT` `Python` | Personal AI assistant with voice, memory, multilingual support & CV |
-| **Real-Time Object Detection** | `YOLOv8` `OpenCV` `Python` | Live detection pipeline with custom-trained models |
-| **Sentiment Analysis Engine** | `PyTorch` `RNN/LSTM` `NLP` | Deep sequence model for nuanced sentiment classification |
-| **Gesture Volume Control** | `MediaPipe` `OpenCV` `Python` | Hand-landmark-driven system volume control in real time |
-| **Churn Prediction App** | `Scikit-learn` `Streamlit` `ML` | End-to-end deployed churn predictor with interactive UI |
-
-</div>
-
----
-
-<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
-
-## `> certifications --rpg-tree`
-
-<div align="center">
+## 🔭 CURRENTLY BUILDING
 
 ```
- ┌──────────────────────────────────────────────────────────────────┐
- │                  ⚔️  CERTIFICATION SKILL TREE  ⚔️                 │
- ├──────────────────┬───────────────────┬──────────────────────────┤
- │   🧠 ML CORE     │  🔥 GENAI TRACK   │  🏆 COMPETITIONS          │
- ├──────────────────┼───────────────────┼──────────────────────────┤
- │  ✅ Google GenAI  │  ✅ Claude 101     │  ✅ GDG Hackathon          │
- │  ✅ Udemy ML      │  ✅ Claude API     │  ✅ GeeksForGeeks          │
- │  ✅ Google Study  │  ✅ Anthropic Cert │  🔓 Kaggle [Unlocking]    │
- │     Jams 2024     │                   │                           │
- └──────────────────┴───────────────────┴──────────────────────────┘
+🔥 Blazion.io  ────────────────── [AI-native SaaS Suite]
+   ├── Blazion Form   ✅  LIVE
+   ├── Toolvise       ✅  LIVE
+   ├── Blazion Sign   🔨  In Progress
+   ├── Blazion Link   🔨  Planned
+   └── Blazion Feedback  🔨  Planned
+
+🌐 Portfolio 3D ────────────────── [Next.js + Three.js]
+   ├── WebGL hero + GSAP ScrollTrigger
+   ├── AI Chat (Claude API streaming)
+   ├── Live face detection (MediaPipe.js)
+   └── Neural signature art generator
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/Google-GenAI%20Study%20Jams%202024-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20101-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20API%20Certified-00D4FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GDG-Hackathon%20Winner-FF6B35?style=for-the-badge&logo=google-developers&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 TECH ARSENAL
+
+<div align="center">
+
+**ML / AI Core**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFAB?style=for-the-badge&logo=yolo&logoColor=black)
+
+**GenAI & LLM Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-6C47FF?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Frontend / 3D / Fullstack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+**Infra & Tools**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+## 🏗️ SIGNATURE PROJECTS
 
-## `> connect --reach_out`
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Blazion Form
+> AI-native form builder. Made-in-India alternative to Google Forms, built in collab with Zoho. Converts natural language into smart, conditional forms.
+
+`Next.js` `Claude API` `Supabase` `FastAPI`
+
+[![Live](https://img.shields.io/badge/LIVE-FF6B00?style=flat-square)](https://blazion.io)
+
+</td>
+<td width="50%">
+
+### 🤖 3D AI Portfolio
+> Dark futuristic portfolio with WebGL 3D hero, real-time face detection, AI chat assistant (Claude streaming), RPG skill tree & neural signature art.
+
+`Three.js` `React Three Fiber` `GSAP` `MediaPipe`
+
+[![View](https://img.shields.io/badge/LIVE-FF6B00?style=flat-square)](https://storytelling-portfolio-six.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 PersonaAI
+> Fine-tuned chatbot platform — custom personalities, memory, multimodal input. Highest-signal GenAI portfolio project.
+
+`PyTorch` `LangChain` `RAG` `Vector DB`
+
+</td>
+<td width="50%">
+
+### 👁️ YOLOv8 Object Detection
+> Real-time object detection system with custom-trained models. Production-grade CV pipeline with OpenCV streaming.
+
+`YOLOv8` `OpenCV` `Python` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📉 ANN Churn Prediction
+> End-to-end ANN model for customer churn with Streamlit dashboard. Class-imbalance handling + explainability.
+
+`TensorFlow` `Pandas` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github)](https://github.com/aryxn-builds/ANN-Chrun-Project)
+
+</td>
+<td width="50%">
+
+### 🎬 IMDB Sentiment (RNN/LSTM)
+> Deep NLP pipeline for sentiment classification on IMDB reviews. LSTM with attention — 89%+ accuracy.
+
+`PyTorch` `LSTM` `NLP` `Jupyter`
+
+[![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github)](https://github.com/aryxn-builds/IMDB-Sentiment-Classification-using-Recurrent-Neural-Networks)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aryan-yadav-blazion">
-  <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/aryxn-builds">
-  <img src="https://img.shields.io/badge/GitHub-aryxn--builds-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://blazion.io">
-  <img src="https://img.shields.io/badge/Blazion.io-Founder-FF6B35?style=for-the-badge&logo=fire&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryxn-builds&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxn-builds&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=FF6B00&text_color=ffffff"/>
 
-<br/><br/>
-
-> 🔥 **Open to ML / CV / GenAI Internships** — Startups & MNCs Welcome
->
-> 💬 *"I don't just use AI — I build with it, for it, and sometimes argue with it at 2 AM."*
+<img src="https://nirzak-streak-stats.vercel.app/?user=aryxn-builds&theme=dark&hide_border=true&background=0d0d0d&stroke=FF6B00&ring=FF6B00&fire=FF2D00&currStreakLabel=FF6B00"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+## 🏆 TROPHIES
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:00D4FF,60:FF6B35,100:0a0a0f&height=120&section=footer&text=Keep%20Building.%20Keep%20Breaking.%20Keep%20Shipping.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aryxn-builds&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- Made with 🔥 by Aryan Yadav  |  github.com/aryxn-builds         -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+---
+
+## 🎯 2025 GOALS
+
+```
+[ ] Land ML/CV internship at top MNC or startup
+[ ] Ship Blazion Sign + Blazion Feedback
+[ ] Launch Blazion.io marketing site (Next.js + Three.js)
+[ ] Open-source PersonaAI
+[ ] 500+ LinkedIn followers from build-in-public content
+[ ] Crack FAANG / top-tier MNC as a fresher
+```
+
+---
+
+## 🌐 FIND ME
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🔥_Portfolio-000000?style=for-the-badge)](https://storytelling-portfolio-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan0203)
+[![Blazion](https://img.shields.io/badge/Blazion.io-FF6B00?style=for-the-badge)](https://blazion.io)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay6033756@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D00,50:FF6B00,100:0a0a0a&height=120&section=footer&text=Open%20to%20ML%20Internships%20%E2%80%94%20Let's%20build%20something%20insane.&fontSize=14&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+</div>
