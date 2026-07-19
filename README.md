@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090B,25:111827,50:18181B,75:111827,100:09090B&text=Aryan%20Yadav&fontColor=ffffff&fontAlign=50&fontSize=55&animation=fadeIn&desc=AI%20Engineer%20in%20Progress&descAlign=50&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090B,25:111827,50:18181B,75:111827,100:09090B&text=Aryan%20Yadav&fontColor=ffffff&fontAlign=50&fontSize=55&animation=fadeIn&%20in%20Progress&descAlign=50&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI+Products;Machine+Learning+%E2%80%A2+Generative+AI;Computer+Vision+%E2%80%A2+Data+Analytics;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI+Products;Machine+Learning+%E2%80%A2+Generative+AI;Computer+Vision;Always+Learning+Something+New"/>
 
 <br><br>
 
@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/aryan0203N">
 <img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ay6033756@gmail.com">
 <img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
@@ -40,7 +40,6 @@ const aryan = {
         "Generative AI",
         "Machine Learning",
         "Computer Vision",
-        "Data Analytics",
         "Backend Development"
     ],
 
