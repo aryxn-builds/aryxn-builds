@@ -1,138 +1,205 @@
-<div align="center">
+<!-- ======================= HERO ======================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090B,25:111827,50:18181B,75:111827,100:09090B&text=Aryan%20Yadav&fontColor=ffffff&fontAlign=50&fontSize=55&animation=fadeIn&%20in%20Progress&descAlign=50&descSize=18"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Aryan+Yadav;Full+Stack+Developer;AI+%26+GenAI+Enthusiast;Building+Real-World+Software" alt="Typing SVG" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/aryxn-builds">
+    <img src="https://img.shields.io/badge/GitHub-aryxn--builds-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan0203/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://storytelling-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI+Products;Machine+Learning+%E2%80%A2+Generative+AI;Computer+Vision;Always+Learning+Something+New"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryxn-builds&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<br><br>
+---
+
+## 👋 About Me
+
+Hey! I'm **Aryan Yadav**, a Computer Science student and aspiring **Software Engineer** passionate about building useful software and AI-powered applications.
+
+I enjoy working across the stack — from designing responsive interfaces and REST APIs to building intelligent systems powered by **LLMs, RAG, vector databases, and modern AI tooling**.
+
+I'm currently focused on becoming a stronger software engineer by combining **DSA + Full-Stack Development + Generative AI** with real-world projects.
+
+```text
+💻 Full-Stack Development
+🤖 Generative AI & LLM Applications
+⚙️ Backend & API Development
+🧠 Data Structures & Algorithms
+☁️ Deployment & Cloud
+🚀 Building Real-World Projects
+```
+
+---
+
+## 🚀 What I'm Working On
+
+* 🤖 Building AI-powered applications
+* 🧠 Learning RAG, embeddings & vector databases
+* ⚙️ Improving backend architecture & API design
+* 💻 Building full-stack applications
+* 🧩 Solving Data Structures & Algorithms problems
+* 🐳 Learning Docker & better deployment practices
+* 📚 Improving software engineering fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+</p>
 
-<a href="https://github.com/aryxn-builds">
-<img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🎨 Frontend
 
-<a href="https://linkedin.com/in/aryan0203N">
-<img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-<a href="mailto:ay6033756@gmail.com">
-<img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+</p>
+
+### 🤖 AI / Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 🗄️ Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+  <img src="https://img.shields.io/badge/Qdrant-D84CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### ☁️ Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Project
+
+### 🧠 DocuMind AI — AI Document Intelligence Platform
+
+An AI-powered document intelligence platform designed to make interacting with documents faster and more intelligent.
+
+**Tech Stack**
+
+`Next.js` `FastAPI` `Python` `Qdrant` `Supabase` `Gemini` `Groq`
+
+🔗 **GitHub:**
+https://github.com/aryxn-builds/DocuMind-AI
+
+🌐 **Live Demo:**
+https://documind-ai-alpha-six.vercel.app/
+
+---
+
+## 💼 Portfolio
+
+<p align="center">
+  <a href="https://storytelling-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-7C3AED?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryxn-builds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryxn-builds&theme=github-dark-blue&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxn-builds&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryxn-builds&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+```text
+[████████████████░░░░] Full-Stack Development
+
+[██████████████░░░░░░] Generative AI
+
+[████████████░░░░░░░░] Data Structures & Algorithms
+
+[██████████░░░░░░░░░░] System Design
+
+[████████░░░░░░░░░░░░] Docker & Cloud
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/aryan0203/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/aryxn-builds">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://storytelling-portfolio-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:ay6033756@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </p>
 
-</div>
-
 ---
 
-# About
+<p align="center">
+  <b>⚡ Build. Learn. Ship. Repeat.</b>
+</p>
 
-```ts
-const aryan = {
-    username: "aryxn-builds",
-
-    role: "Computer Science Student",
-
-    focus: [
-        "Generative AI",
-        "Machine Learning",
-        "Computer Vision",
-        "Backend Development"
-    ],
-
-    currentlyLearning: [
-        "LLMs",
-        "LangChain",
-        "RAG",
-        "Agentic AI",
-        "Advanced DSA"
-    ],
-
-    philosophy: "Create things people actually use."
-}
-```
-
----
-
-# Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,linux,vscode,tensorflow,pytorch,opencv,sklearn,docker,vercel&theme=dark"/>
-
-</div>
-
----
-
-# Current Mission
-
-```text
-▣ Building AI Projects
-▣ Learning Agentic AI
-▣ Open Source Contributions
-▣ DSA Practice
-▣ Research & Development
-```
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryxn-builds&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxn-builds&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aryxn-builds&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryxn-builds&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Quote
-
-<div align="center">
-
-> *Good software isn't written once.*
->
-> *It's refined until it feels inevitable.*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aryxn-builds&style=flat-square&color=grey"/>
-
-</div>
+<p align="center">
+  ⭐ If you find something useful here, consider starring the repository!
+</p>
