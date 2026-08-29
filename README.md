@@ -34,9 +34,9 @@
 
 Hey! I'm **Aryan Yadav**, a Computer Science student and aspiring **Software Engineer** passionate about building useful software and AI-powered applications.
 
-I enjoy working across the stack — from designing responsive interfaces and REST APIs to building intelligent systems powered by **LLMs, RAG, embeddings, and modern AI tooling**.
+I enjoy working across the stack — from responsive frontend interfaces and REST APIs to intelligent applications powered by **LLMs, RAG, embeddings, and modern AI tools**.
 
-Currently, I'm focused on becoming a stronger software engineer by combining:
+Currently, I'm focused on:
 
 **DSA + Full-Stack Development + Generative AI + Real-World Projects**
 
@@ -75,17 +75,12 @@ Currently, I'm focused on becoming a stronger software engineer by combining:
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
-### 🤖 AI / Generative AI
+### 🤖 AI & Generative AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
@@ -121,17 +116,17 @@ An AI-powered document intelligence platform designed to make interacting with d
 
 <p>
   <a href="https://github.com/aryxn-builds/DocuMind-AI">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://documind-ai-alpha-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-7C3AED?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🌐 My Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://storytelling-portfolio-six.vercel.app/">
@@ -144,56 +139,25 @@ An AI-powered document intelligence platform designed to make interacting with d
 # 📊 GitHub Analytics
 
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aryxn-builds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="Aryan's GitHub Stats"
-  />
-
   <img
     src="https://streak-stats.demolab.com/?user=aryxn-builds&theme=github-dark-blue&hide_border=true"
     height="180"
-    alt="Aryan's GitHub Streak"
+    alt="GitHub Streak"
   />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryxn-builds&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake.svg"
-    />
-
+  <a href="https://github.com/aryxn-builds">
     <img
-      src="https://raw.githubusercontent.com/aryxn-builds/aryxn-builds/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
+      src="https://ghchart.xqsit94.in/dark:default/aryxn-builds"
+      alt="Aryan's GitHub Contribution Graph"
+      width="900"
     />
-
-  </picture>
-
+  </a>
 </p>
 
 ---
@@ -201,7 +165,7 @@ An AI-powered document intelligence platform designed to make interacting with d
 ## 🧠 Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/aryan0_04">
     <img
       src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
     />
@@ -212,11 +176,49 @@ An AI-powered document intelligence platform designed to make interacting with d
 
 ## 📚 Currently Learning
 
-```text
-🤖 Generative AI
-🧠 RAG & LLM Applications
-⚙️ Backend System Design
-🐳 Docker & Containerization
-☁️ Cloud Deployment
-🧩 Data Structures & Algorithms
-🚀 Production-Ready Applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-2EA44F?style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/aryan0203/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/aryxn-builds">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://storytelling-portfolio-six.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+
+  <a href="mailto:ay6033756@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Build. Learn. Ship. Repeat.</b>
+</p>
