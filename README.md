@@ -147,15 +147,23 @@ An AI-powered document intelligence platform designed to make interacting with d
 </p>
 
 ---
-
-# 📈 GitHub Contribution Graph
+## 📈 GitHub Contributions
 
 <p align="center">
   <a href="https://github.com/aryxn-builds">
     <img
       src="https://ghchart.xqsit94.in/dark:default/aryxn-builds"
-      alt="Aryan's GitHub Contribution Graph"
+      alt="GitHub Contributions"
       width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aryxn-builds">
+    <img
+      src="https://img.shields.io/badge/View%20Live%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github"
+      alt="View GitHub Contributions"
     />
   </a>
 </p>
