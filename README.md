@@ -173,7 +173,7 @@ An AI-powered document intelligence platform designed to make interacting with d
 ## 🧠 Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/aryan0_04">
+  <a href="https://leetcode.com/aryan0203">
     <img
       src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
     />
